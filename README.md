@@ -1,9 +1,24 @@
-### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/a564de39-80e6-4ae6-8987-384ff82813ce" width="150"/>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jose-rodrigues-868676225/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Jose_Rodrigues/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+    <a href="https://www.kaggle.com/yatata1">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
 
 ## :writing_hand: About Me:
-I am a Full
+I'm with Robotics and AI Engineer with a "Jack of All Trades" mindset.
+
+- :zap: In my leisure moments, I delve into diverse disciplines to satiate my insatiable curiosity.
 
 ---
 ## Technologies:
