@@ -21,10 +21,10 @@
 
 
 ## :writing_hand: About Me:
-I'm Robotics and AI Engineer with a "Jack of All Trades" mindset.
+I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the stars and something less.
 
-- :telescope: Currently working as a AI Consultant
-- :rocket: Passionate about exploring everything that is new, both intelecully and socially
+- :telescope: Currently working as an AI Consultant
+- :rocket: Passionate about exploring everything new, both intellectually and socially.
 - :zap: In my leisure moments, I delve into diverse disciplines to satiate my insatiable curiosity.
 
 ---
