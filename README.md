@@ -2,8 +2,11 @@
 
 
 
+## :writing_hand: About Me:
+I am a Full
 
-## Technologies
+---
+## Technologies:
 
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/12a4a893-d89d-4be7-996b-b7693ce72409" width="100">
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/5aed7a5a-3ea1-41db-ae4f-1cc65479256b" width="100">
@@ -20,5 +23,13 @@
 
 
 
+
+---
+
+## :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yata-ta&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yata-ta&show_icons=true&theme=gotham )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yata-ta&layout=compact&theme=gotham )](https://github.com/anuraghazra/github-readme-stats)
 
 
