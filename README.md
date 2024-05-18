@@ -21,7 +21,7 @@
 
 
 ## :writing_hand: About Me:
-I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the stars and something less.
+I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the stars and nothing less.
 
 - :telescope: Currently working as an AI Consultant
 - :rocket: Passionate about exploring everything new, both intellectually and socially.
