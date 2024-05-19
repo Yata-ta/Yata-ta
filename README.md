@@ -50,6 +50,10 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 
 ## :fire: My Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yata-ta&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yata-ta&show_icons=true&theme=gotham )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yata-ta&layout=compact&theme=gotham )](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
