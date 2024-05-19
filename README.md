@@ -55,3 +55,11 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yata-ta&layout=compact&theme=gotham )](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+## My Repos:
+
+#### Computer Science:
+- [PicoCTF-Problems](https://github.com/Computer-Science-yatata/PicoCTF-Problems)
+- [OverTheWire-BanditGames](https://github.com/Computer-Science-yatata/OverTheWire-BanditGames)
+- [Rust CLI Unit Converter](https://github.com/Computer-Science-yatata/CLI-Unit-Converter)
