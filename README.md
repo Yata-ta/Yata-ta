@@ -60,7 +60,12 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 ## My Repos:
 
 #### Computer Science:
-- [PicoCTF-Problems](https://github.com/Computer-Science-yatata/PicoCTF-Problems)
-- [OverTheWire-BanditGames](https://github.com/Computer-Science-yatata/OverTheWire-BanditGames)
-- [Rust CLI Unit Converter](https://github.com/Computer-Science-yatata/CLI-Unit-Converter)
+- [PicoCTF-Problems](https://github.com/Yata-ta/PicoCTF-Problems)
+- [OverTheWire-BanditGames](https://github.com/Yata-ta/OverTheWire-BanditGames)
+- [Leet Code Problems](https://github.com/Yata-ta/LeetCode-Problems)
+- [Rust CLI Unit Converter](https://github.com/Yata-ta/Unit_Converter-CLI)
+- [Rust CLI TODO Manager](https://github.com/Yata-ta/TODO_Manager-CLI)
 - [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
+
+#### Automation:
+- [HortiFruti](https://github.com/Yata-ta/HortiFruti)
