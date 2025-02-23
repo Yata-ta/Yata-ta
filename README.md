@@ -71,6 +71,8 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 - [PicoCTF-Problems](https://github.com/Yata-ta/PicoCTF-Problems)
 - [OverTheWire-BanditGames](https://github.com/Yata-ta/OverTheWire-BanditGames)
 - [OverTheWire-Natas](https://github.com/Yata-ta/OverTheWire-Natas)
+- [OverTheWire-Leviathan](https://github.com/Yata-ta/OverTheWire-Leviathan)
+- [OverTheWire-Krypton](https://github.com/Yata-ta/OverTheWire-Krypton)
 
 #### Automation:
 - [HortiFruti](https://github.com/Yata-ta/HortiFruti)
