@@ -70,6 +70,7 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 - [Rust CLI Unit Converter](https://github.com/Yata-ta/Unit_Converter-CLI)
 - [Rust CLI TODO Manager](https://github.com/Yata-ta/TODO_Manager-CLI)
 - [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
+- [Rustlings](https://github.com/Yata-ta/rustlings)
 
 ### Ethical Hacking
 - [PicoCTF-Problems](https://github.com/Yata-ta/PicoCTF-Problems)
