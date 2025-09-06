@@ -36,6 +36,8 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/8eea898b-ff67-4bdc-a4bc-010f4137d8f7" width="70">
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/af363718-f587-45a8-b4e6-f2e29c14c031" width="80">
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/ad5f03a8-d6f4-4ced-9316-e54fb80aeaff" width="80">
+<img alt="js" src="https://github.com/user-attachments/assets/721d984f-7246-4ba0-9be6-7a2b8c487148" width="80" />
+
 <br>
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/dce1a943-1fca-4620-91c2-e24f38370b1c" width="80">
 <img src="https://github.com/Yata-ta/Yata-ta/assets/98527071/3386be95-2b0a-41ff-b097-1227b41258dc" width="80">
