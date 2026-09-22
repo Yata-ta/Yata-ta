@@ -67,6 +67,9 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 
 ## My Repos:
 
+### [`AI Agents`](https://github.com/Yata-ta?tab=repositories&q=topic:ai-agents):
+
+
 #### Computer Science:
 - [Leet Code Problems](https://github.com/Yata-ta/LeetCode-Problems)
 - [Rust CLI Unit Converter](https://github.com/Yata-ta/Unit_Converter-CLI)
