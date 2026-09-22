@@ -71,24 +71,30 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 - [Building Analysis](https://github.com/Yata-ta/Building-Analysis)
 
 
-#### Computer Science:
-- [Leet Code Problems](https://github.com/Yata-ta/LeetCode-Problems)
-- [Rust CLI Unit Converter](https://github.com/Yata-ta/Unit_Converter-CLI)
-- [Rust CLI TODO Manager](https://github.com/Yata-ta/TODO_Manager-CLI)
+### [`Software Development`](https://github.com/Yata-ta?tab=repositories&q=topic:software-development):
 - [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
-- [Rustlings](https://github.com/Yata-ta/rustlings)
+- [Chronoscope](https://github.com/Yata-ta/Chronoscope)
 
-### Ethical Hacking
-- [PicoCTF-Problems](https://github.com/Yata-ta/PicoCTF-Problems)
-- [OverTheWire-BanditGames](https://github.com/Yata-ta/OverTheWire-BanditGames)
-- [OverTheWire-Natas](https://github.com/Yata-ta/OverTheWire-Natas)
-- [OverTheWire-Leviathan](https://github.com/Yata-ta/OverTheWire-Leviathan)
-- [OverTheWire-Krypton](https://github.com/Yata-ta/OverTheWire-Krypton)
 
-#### Automation:
+
+### [`Ethical Hacking`](https://github.com/Yata-ta?tab=repositories&q=topic:ctf):
+- [PicoCTF](https://github.com/Yata-ta/PicoCTF-Problems)
+- [Over The Wire](https://github.com/Yata-ta/Over-the-Wire.git)
+
+
+### [`Automations`](https://github.com/Yata-ta?tab=repositories&q=topic:automation):
+- [Email-Extractor](https://github.com/Yata-ta/Email-Extractor)
 - [HortiFruti](https://github.com/Yata-ta/HortiFruti)
 - [Warehouse Manager (SAP)](https://github.com/Yata-ta/Warehouse-Manager)
 - [Industry4.0-PizzaPlace](https://github.com/Yata-ta/Industry4.0-PizzaPlace)
-- [Email-Extractor](https://github.com/Yata-ta/Email-Extractor)
+
+
+
+### Learning Opportunities:
+- [Leet Code Problems](https://github.com/Yata-ta/LeetCode-Problems)
+- [Rustlings](https://github.com/Yata-ta/rustlings)
+- [Rust CLI Unit Converter](https://github.com/Yata-ta/Unit_Converter-CLI)
+- [Rust CLI TODO Manager](https://github.com/Yata-ta/TODO_Manager-CLI)
+
 
 
