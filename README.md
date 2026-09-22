@@ -71,10 +71,12 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 - [Building Analysis](https://github.com/Yata-ta/Building-Analysis)
 
 
+### [`AI&ML`](https://github.com/Yata-ta?tab=repositories&q=topic:ml):
+
+
 ### [`Software Development`](https://github.com/Yata-ta?tab=repositories&q=topic:software-development):
 - [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
 - [Chronoscope](https://github.com/Yata-ta/Chronoscope)
-
 
 
 ### [`Ethical Hacking`](https://github.com/Yata-ta?tab=repositories&q=topic:ctf):
