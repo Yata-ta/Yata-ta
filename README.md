@@ -84,6 +84,7 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 
 ### [`Automations`](https://github.com/Yata-ta?tab=repositories&q=topic:automation):
 - [Email-Extractor](https://github.com/Yata-ta/Email-Extractor)
+- [Database Intern Training](https://github.com/Yata-ta/Database-Intern-Training)
 - [HortiFruti](https://github.com/Yata-ta/HortiFruti)
 - [Warehouse Manager (SAP)](https://github.com/Yata-ta/Warehouse-Manager)
 - [Industry4.0-PizzaPlace](https://github.com/Yata-ta/Industry4.0-PizzaPlace)
