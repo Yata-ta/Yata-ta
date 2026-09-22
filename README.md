@@ -68,6 +68,7 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 ## My Repos:
 
 ### [`AI Agents`](https://github.com/Yata-ta?tab=repositories&q=topic:ai-agents):
+- [Building Analysis](https://github.com/Yata-ta/Building-Analysis)
 
 
 #### Computer Science:
