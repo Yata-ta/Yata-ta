@@ -66,30 +66,39 @@ I'm a Electrical Engineer with a "Jack of All Trades" mindset aiming for the sta
 ---
 
 ## My Repos:
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-### [`AI Agents`](https://github.com/Yata-ta?tab=repositories&q=topic:ai-agents):
+### [`AI Agents`](https://github.com/Yata-ta?tab=repositories&q=topic:ai-agents)
 - [Building Analysis](https://github.com/Yata-ta/Building-Analysis)
 
+### [`ETL & Data`](https://github.com/Yata-ta?tab=repositories&q=topic:data)
+- [Unstructured Data ETL Pipeline (Pre-Agents)](https://github.com/Yata-ta/Unstructured-Data-ETL-Pipeline)
 
-### [`AI&ML`](https://github.com/Yata-ta?tab=repositories&q=topic:ml):
-
-
-### [`Software Development`](https://github.com/Yata-ta?tab=repositories&q=topic:software-development):
-- [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
-- [Chronoscope](https://github.com/Yata-ta/Chronoscope)
-
-
-### [`Ethical Hacking`](https://github.com/Yata-ta?tab=repositories&q=topic:ctf):
+### [`Ethical Hacking`](https://github.com/Yata-ta?tab=repositories&q=topic:ctf)
 - [PicoCTF](https://github.com/Yata-ta/PicoCTF-Problems)
 - [Over The Wire](https://github.com/Yata-ta/Over-the-Wire.git)
 
+    </td>
+    <td width="50%" valign="top">
 
-### [`Automations`](https://github.com/Yata-ta?tab=repositories&q=topic:automation):
+### [`AI & ML`](https://github.com/Yata-ta?tab=repositories&q=topic:ml)
+
+### [`Software Development`](https://github.com/Yata-ta?tab=repositories&q=topic:software-development)
+- [Wireframe Map - Minilibx](https://github.com/Yata-ta/Wireframe-Map-Minilibx)
+- [Chronoscope](https://github.com/Yata-ta/Chronoscope)
+
+### [`Automations`](https://github.com/Yata-ta?tab=repositories&q=topic:automation)
 - [Email-Extractor](https://github.com/Yata-ta/Email-Extractor)
 - [Database Intern Training](https://github.com/Yata-ta/Database-Intern-Training)
 - [HortiFruti](https://github.com/Yata-ta/HortiFruti)
 - [Warehouse Manager (SAP)](https://github.com/Yata-ta/Warehouse-Manager)
 - [Industry4.0-PizzaPlace](https://github.com/Yata-ta/Industry4.0-PizzaPlace)
+
+    </td>
+  </tr>
+</table>
 
 
 
